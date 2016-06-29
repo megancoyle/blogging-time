@@ -10,10 +10,10 @@ title: Blogging Time
 email: meg@mcoyle.com
 description: > # this means to ignore newlines until "baseurl:"
   A site for blogging about the odds and ends that come up in life.
-baseurl: "/blogging-time" # the subpath of your site, e.g. /blog
-url: "http://megancoyle.github.io" # the base hostname & protocol for your site
-# baseurl: "" # the subpath of your site, e.g. /blog
-# url: "http://yourdomain.com" # the base hostname & protocol for your site
+# baseurl: "/blogging-time" # the subpath of your site, e.g. /blog
+# url: "http://megancoyle.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: megancoyle
 github_username:  megancoyle
 
