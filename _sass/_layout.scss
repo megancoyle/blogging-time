@@ -12,6 +12,7 @@
 }
 
 .site-title {
+    font-family: $header-font;
     font-size: 26px;
     font-weight: 300;
     line-height: 56px;
@@ -22,6 +23,10 @@
     &,
     &:visited {
         color: $grey-color-dark;
+    }
+    &:hover {
+      text-decoration: none;
+      opacity: .8;
     }
 }
 
