@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Working with Jekyll!"
-featureImage: /images/yellow-design.jpg
+featureImage: images/yellow-design.jpg
 date:   2016-06-27 14:17:54 -0400
 categories: jekyll update
 ---
