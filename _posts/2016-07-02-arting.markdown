@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Arting"
+featureImage: images/paint-and-brushes.jpg
+date:   2017-07-02 14:17:54 -0400
+categories: art
+---
+
+It's time to get your art on!
