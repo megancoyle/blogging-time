@@ -9,3 +9,5 @@ categories: art
 Arting is the word that I like to use to describe what I do. As an artist, I make art. Therefore, I'm arting when I'm working on it.
 
 Many different artists make art for different reasons, and my primary reason is it's something I just cannot go without. I have an inherit need to build things.
+
+This desire to make things is why I've gotten involved with the tech industry. It's making art in a different way, just via coding.
